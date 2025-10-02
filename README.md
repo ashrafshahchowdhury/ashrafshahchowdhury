@@ -48,9 +48,9 @@ Welcome to my GitHub! I'm an Electrical Engineer with a passion for blending **h
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: [your-linkedin](linkedin.com/in/ashraf-shah-chowdhury05?originalSubdomain=bd)
-- 📧 Email: [your.email@example.com](mailto:ashrafshahchowdhury9@gmail.com)
-- 🌐 Portfolio/Blog: [yourwebsite.com](https://ashrafshahchowdhury.github.io)
+- 💼 LinkedIn: [My-linkedin](linkedin.com/in/ashraf-shah-chowdhury05?originalSubdomain=bd)
+- 📧 Email: [ashrafshahchowdhury9@gmail.com](mailto:ashrafshahchowdhury9@gmail.com)
+- 🌐 Portfolio/Blog: [ashrafshahchowdhury.github.io](https://ashrafshahchowdhury.github.io)
 
 ---
 
